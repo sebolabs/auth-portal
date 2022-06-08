@@ -1,8 +1,8 @@
 # IDE
-.vscode
+**/.vscode
 
 # MacOSX
-.DS_Store
+**/.DS_Store
 
 # COMMON
 **/*.js
